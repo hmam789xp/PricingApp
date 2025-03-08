@@ -1,0 +1,1 @@
+{"name":"PricingApp","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"@react-native-firebase/app":"^21.12.0","@react-native-firebase/auth":"^21.12.0","@react-native-firebase/firestore":"^21.12.0","react-native":"0.78.0"}}
